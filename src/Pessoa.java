@@ -33,4 +33,15 @@ public class Pessoa {
 	public void setIdade(int idadePar) {
 		this .idadeAt = idadePar;
 	}
+	
+	public void setNome(String nomePar) {
+		this .nomeAt = nomePar;
+	}
+	
+	public void setendereco(int enderecoPar) {
+		this .endereco = enderecoPar;
+	}
+	public int getendereco() {
+		return endereco;
+	}
 }

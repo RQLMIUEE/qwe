@@ -3,7 +3,7 @@ public class Endereco {
  String ruaAt;
  String cidadeAt;
  String estadoAt;
-}
+
 
 
 public Endereco(String RuaPar, String cidadePar, String estadoPar) {
@@ -40,4 +40,4 @@ public String setcidade() {
 }
 
 
-v
+}
